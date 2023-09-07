@@ -1,0 +1,33 @@
+# Conda Environment Setup Instructions
+#  - Using an environment.yml file with conda
+#  - Key Terminal Commands:
+#
+#    `conda env create -f environment.yml`
+#    conda env update --file environment.yml --prune
+#    conda env export --name Get-Swol > environment.yml
+#    conda env remove --name Get-Swol
+#    conda env list
+
+name: bt4222_hotels
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.15
+  - pip=23.2.1
+  - bottleneck=1.3.7
+  - pip:
+      - numpy
+      - pandas
+      - ipykernel
+      - ipython
+      - jupyter-client
+      - jupyter-core
+      - matplotlib
+      - pyprojroot
+      - scikit-learn
+      - Pattern
+      - vaderSentiment
+      - bert
+      - textblob
