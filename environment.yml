@@ -142,15 +142,23 @@ dependencies:
       - attrs==23.1.0
       - bert==2.2.0
       - erlastic==2.0.0
+      - filelock==3.12.4
       - frozenlist==1.4.0
+      - fsspec==2023.9.0
+      - huggingface-hub==0.17.1
       - jupyter-client==8.3.1
       - jupyter-core==5.3.1
       - multidict==6.0.4
       - openai==0.28.0
       - platformdirs==3.10.0
       - pypdf2==3.0.1
+      - pyyaml==6.0.1
       - pyzmq==25.1.1
+      - safetensors==0.3.3
+      - tokenizers==0.13.3
       - tornado==6.3.3
       - traitlets==5.9.0
+      - transformers==4.33.1
+      - typing-extensions==4.7.1
       - yarl==1.9.2
 prefix: /Users/ammarbagharib/miniforge3/envs/bt4222_hotels
