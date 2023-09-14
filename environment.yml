@@ -4,8 +4,8 @@
 #
 #    `conda env create -f environment.yml`
 #    conda env update --file environment.yml --prune
-#    conda env export --name Get-Swol > environment.yml
-#    conda env remove --name Get-Swol
+#    conda env export --name bt4222_hotels > environment.yml
+#    conda env remove --name bt4222_hotels
 #    conda env list
 
 name: bt4222_hotels
@@ -14,20 +14,19 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.8.15
   - pip=23.2.1
   - bottleneck=1.3.7
+  - numpy
+  - pandas
+  - ipykernel
+  - ipython
+  - matplotlib
+  - pyprojroot
+  - scikit-learn
+  - Pattern
+  - vaderSentiment
+  - textblob
   - pip:
-      - numpy
-      - pandas
-      - ipykernel
-      - ipython
       - jupyter-client
       - jupyter-core
-      - matplotlib
-      - pyprojroot
-      - scikit-learn
-      - Pattern
-      - vaderSentiment
       - bert
-      - textblob
