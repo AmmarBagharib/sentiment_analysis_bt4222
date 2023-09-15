@@ -23,4 +23,10 @@ Now run:
 conda activate bt4222_hotels
 ```
 
+## License
+
+The software provided in this project is offered under the MIT open
+source license. Refer to the
+[license](https://github.com/AmmarBagharib/sentiment_analysis_bt4222/LICENSE.md)
+file for more information.
 
