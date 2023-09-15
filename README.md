@@ -18,7 +18,7 @@ Navigate to the project repository, and create the virtual conda environment usi
 conda env create -f environment.yml
 ```
 
-Now run:
+Now to activate the virtual environment with the packages installed, run:
 ```
 conda activate bt4222_hotels
 ```
