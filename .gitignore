@@ -2,6 +2,7 @@
 *.DS_Store
 *.default*
 .jupyter/*
+codes/aspect_modelling/checkpoints/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
