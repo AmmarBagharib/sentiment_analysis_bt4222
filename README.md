@@ -1,4 +1,4 @@
-<img src="https://github.com/AmmarBagharib/sg-hotels-sentiment-analysis/blob/main/tripadvisor-logo.png" width="400" height="240" />
+<img src="https://github.com/AmmarBagharib/sg-hotels-sentiment-analysis/blob/main/tripadvisor-logo.png" width="300" height="170" />
 
 ## Hotel Reviews Sentiment Analysis
 
