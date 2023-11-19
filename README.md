@@ -1,3 +1,6 @@
+<img src="https://github.com/AmmarBagharib/sg-hotels-sentiment-analysis/blob/main/tripadvisor-logo.png" width="400" height="240" />
+
+
 # Hotel Reviews Sentiment Analysis
 Mining Web Data for Business Insights
 
