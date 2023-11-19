@@ -2,7 +2,7 @@
 
 ## Hotel Reviews Sentiment Analysis
 
-### Read the Project Report <[HERE](https://github.com/AmmarBagharib/amazon_graph_analysis/blob/master/analysis/report.pdf)>
+### Read the Project Report <[HERE](https://github.com/AmmarBagharib/sg-hotels-sentiment-analysis/blob/main/analysis/report.pdf)>
 
 Project completed for the module, Mining Web Data for Business Insights
 
