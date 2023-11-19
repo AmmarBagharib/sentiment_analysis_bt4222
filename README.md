@@ -32,7 +32,7 @@ We highly recommend using miniforge instead of anaconda. Miniforge is a small, b
 
 Using your IDE, pull this repository using:
 ```
-git clone https://github.com/AmmarBagharib/sentiment_analysis_bt4222
+git clone https://github.com/AmmarBagharib/sg-hotels-sentiment-analysis
 ```
 
 Navigate to the project repository, and create the virtual conda environment using:
